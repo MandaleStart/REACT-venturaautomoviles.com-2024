@@ -18,9 +18,7 @@ Este proyecto está desarrollado utilizando React junto con Vite, una herramient
 
 ## Instalación y Uso
 
-1. Clona este repositorio en tu máquina local utilizando Git:
-
-git clone https://github.com/tu-usuario/automotora-ventura-web.git
+1. Clona este repositorio en tu máquina local utilizando Git
 
 2. Entra en el directorio del proyecto:
 
@@ -54,6 +52,6 @@ Este proyecto está bajo la Licencia MIT. Para más detalles, por favor consulta
 
 ## Contacto
 
-Para cualquier pregunta o sugerencia, no dudes en ponerte en contacto con nosotros en [correo@automotoraventura.com](mailto:correo@automotoraventura.com).
+Para cualquier pregunta o sugerencia, no dudes en ponerte en contacto
 
 ¡Gracias por visitar la página web de Automotora Ventura!
